@@ -6,8 +6,8 @@
 #include <WiFiNINA.h>
 #include <PubSubClient.h>
 
-const char* ssid = "Tanmay's Realme X2 Pro";  
-const char* password = "123456789111";  
+const char* ssid = "XXXXXX";  
+const char* password = "XXXXXXXX";  
 
 const char* mqtt_server = "broker.emqx.io";
 const int mqtt_port = 1883;
